@@ -1,3 +1,18 @@
+Front-End Developer
+-------------------- 
+
+💯 I am 17 years old. <br>
+🇳🇱 I live in the Netherlands. <br> 
+🤝 I’m currently looking for an internship <br>
+🌱 I’m currently learning JavaScript 
+
+*   🌍 I live in The Hague, Zuid-Holland
+*   🖥️  See my portfolio at [My Portfolio](https://87253.stu.sd-lab.nl/Portfolio/Main/)
+*   ✉️  You can contact me at [malikkhadje@gmail.com](mailto:malikkhadje@gmail.com)
+<!-- *   🧠  I'm currently working on  -->
+
+
+
 # 💫 About Me:
 Sinds jongs af aan, heb ik altijd van het bouwen en designen van dingetjes gehouden. Of het nu met lego was of in een spel, ik vond het altijd leuk om te doen. Nu ben ik 17 jaar en leer ik hoe ik websites kan bouwen. Ik vind het nog steeds leuk om van alles te bouwen en stylen en ik wil graag een Front-end developer worden. Mijn passie voor het bouwen en stylen van websites zal me helpen om een succesvolle Front-end developer te worden. Ik kijk ernaar uit om mijn vaardigheden verder te ontwikkelen en mooie, gebruiksvriendelijke websites te bouwen.
 
