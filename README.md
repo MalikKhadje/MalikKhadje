@@ -6,9 +6,10 @@ Front-End Developer
 🤝 I’m currently looking for an internship <br>
 🌱 I’m currently learning JavaScript 
 
-*   🌍 I live in The Hague, Zuid-Holland
-*   🖥️  See my portfolio at [My Portfolio](https://87253.stu.sd-lab.nl/Portfolio/Main/)
-*   ✉️  You can contact me at [malikkhadje@gmail.com](mailto:malikkhadje@gmail.com)
+
+*   🌍 I live in The Hague, Zuid-Holland <br>
+*   🖥️  See my portfolio at [My Portfolio](https://87253.stu.sd-lab.nl/Portfolio/Main/) <br>
+*   ✉️  You can contact me at [malikkhadje@gmail.com](mailto:malikkhadje@gmail.com) <br>
 <!-- *   🧠  I'm currently working on  -->
 
 
